@@ -1,0 +1,10 @@
+bottle
+bottle-sqlalchemy
+psycopg2
+
+# for ssl
+cheroot
+
+# for logins
+beaker
+requests
